@@ -2,7 +2,7 @@
 
 > **National Hackathon 2025 Submission** · Team NexPath
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-nexpath.netlify.app-4F8EF7?style=for-the-badge)](https://nexpath.netlify.app)
+[![Live Demo](https://ayus758.github.io/nexpath)
 [![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-7B5CF7?style=for-the-badge)](#tech-stack)
 
@@ -35,9 +35,7 @@ To prepare for GATE, a student visits YouTube for lectures, a coaching website f
 
 ## Live Demo
 
-🔗 **[nexpath.netlify.app](https://nexpath.netlify.app)**
-
----
+🔗🔗 [ayus758.github.io/nexpath](https://ayus758.github.io/nexpath)
 
 ## Features
 
@@ -113,7 +111,7 @@ OpenAI / Gemini API  (resume analysis · skill gap · roadmap generation)
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nexpath.git
+git clone https://github.com/ayus758/nexpath.git
 cd nexpath
 
 # Install frontend dependencies
