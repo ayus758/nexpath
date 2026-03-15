@@ -2,7 +2,6 @@
 
 > **National Hackathon 2025 Submission** · Team NexPath
 
-[![Live Demo](https://ayus758.github.io/Next_Path/)
 [![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-7B5CF7?style=for-the-badge)](#tech-stack)
 
