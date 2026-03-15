@@ -2,7 +2,7 @@
 
 > **National Hackathon 2025 Submission** · Team NexPath
 
-[![Live Demo](https://ayus758.github.io/nexpath)
+[![Live Demo](https://ayus758.github.io/Next_Path/)
 [![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-7B5CF7?style=for-the-badge)](#tech-stack)
 
@@ -35,7 +35,7 @@ To prepare for GATE, a student visits YouTube for lectures, a coaching website f
 
 ## Live Demo
 
-🔗🔗 [ayus758.github.io/nexpath](https://ayus758.github.io/nexpath)
+🔗🔗 [ayus758.github.io/nexpath](https://ayus758.github.io/Next_Path/)
 
 ## Features
 
