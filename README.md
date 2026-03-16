@@ -1,6 +1,6 @@
 # NexPath — Unified Education & Career Intelligence Platform
 
-> **National Hackathon 2025 Submission** · Team NexPath
+> **Graph-E-Thon 2026** · Team NexPath
 
 [![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-7B5CF7?style=for-the-badge)](#tech-stack)
